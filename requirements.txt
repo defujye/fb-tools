@@ -1,0 +1,9 @@
+requests
+aiohttp
+mechanize
+bs4
+stdiomask
+futures
+requests bs4 httpx
+rich
+uuid
