@@ -4,6 +4,6 @@ mechanize
 bs4
 stdiomask
 futures
-requests bs4 httpx
+httpx
 rich
 uuid
