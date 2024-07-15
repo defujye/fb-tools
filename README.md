@@ -1,7 +1,7 @@
 <p align="center">
 A simple Facebook Tool using termux & python language made by me.
 </p>
-<img align="center" src="tool.jpg"></a>
+<img align="center" src="example.jpg"></a>
 
 ### HI USER !
 
